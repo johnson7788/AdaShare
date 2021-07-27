@@ -42,12 +42,16 @@ pip install tensorboardX
 ```
 
 # Datasets
+2GB
 请下载格式化的数据集 `NYU v2` [here](https://drive.google.com/file/d/11pWuQXMFBNMIIB4VYMzi9RPE-nMOBU8g/view?usp=sharing) 
 
+2GB
 可以找到格式化的`citycapes`[here](https://drive.google.com/file/d/1WrVMA_UZpoj7voajf60yIVaS_Ggl0jrH/view?usp=sharing).
 
+11.16 TB
 Download `Tiny-Taskonomy` as instructed by its [GitHub](https://github.com/StanfordVL/taskonomy/tree/master/data).
 
+17GB
 The formatted `DomainNet` can be found [here](https://drive.google.com/file/d/1qVtPnKX_iuNXcR3JoP4llxflIUEw880j/view?usp=sharing).
 
 记得在`./yamls/`的所有`yaml`文件中把`dataroot`改为你的本地数据集路径。
